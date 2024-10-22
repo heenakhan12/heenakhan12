@@ -1,10 +1,16 @@
 - 👋 Hi, I’m @heenakhan12
-- 👀 I’m interested in ...
-     -Gaining and Exploring knowledge in coding.
+  
+- 👀 3 years Experienced Full Stack Engineer with a strong foundation in HTML, CSS, JavaScript, TypeScript,
+and Nest.js. Proficient in creating dynamic and responsive user interfaces while also possessing expertise
+in back-end development, RESTful APIs, MySQL queries, and HubSpot blog creation. Skilled in collaborating
+with crossfunctional teams, I offer a unique blend of technical progress and a commitment to delivering highquality solutions.
 
-- 🌱 I’m currently learning ...
+- 🌱 Skills ...
       -Javascript
+      -HTML
+      -CSS
       -React.js
+      -Typescript
       -Node.js
       -mongoDB
 
